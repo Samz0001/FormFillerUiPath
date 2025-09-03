@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="A5H6GKJTTEuVmVSkAu1O2Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="letcode.in/forms" CVScreenId="d1a0488d-f6ca-4af9-ad0a-95e7765a9e1c" CvElementArea="323, 715, 286, 42" CvType="InputBox" DesignTimeRectangle="325, 761, 282, 40" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='Date' tag='INPUT' /&gt;" Guid="305397ef-5afb-4e2f-a6a4-710f8a7771b9" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Forms | LetCode with Koushik' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d1a0488d-f6ca-4af9-ad0a-95e7765a9e1c" CvElementArea="323, 715, 286, 42" CvType="InputBox" DesignTimeRectangle="325, 729, 282, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Date Of Birth' tag='LABEL' type='' class='label' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Date Of Birth' /&gt;" Guid="10675129-7d43-4579-a848-17b1d96d7431" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="cbbb4456bf5c37bc1b169f95b80e1d9d.png" xmlns="">0qnt_U8l7KkeVkLoU7gL71Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

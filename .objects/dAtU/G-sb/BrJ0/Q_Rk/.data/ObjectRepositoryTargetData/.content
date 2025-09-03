@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="gtCv51QvNkatsErd813-Vw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="demoqa.com/automation-practice-form" CVScreenId="79c49f5d-f8cc-4f7f-81d5-a78e9f32e276" CvElementArea="741, 536, 211, 41" CvType="InputBox" DesignTimeRectangle="743, 537, 207, 38" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='dateOfBirthInput' tag='INPUT' type='text' class='form-control' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="b5ebd05c-e830-4ebe-9f5e-44d906d66871" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='DEMOQA' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="79c49f5d-f8cc-4f7f-81d5-a78e9f32e276" CvTextArea="510, 541, 90, 15" CvTextArgument="Date of Birth" CvType="Text" DesignTimeRectangle="511, 537, 89, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='dateOfBirth-label' tag='LABEL' type='' class='form-label' aaname='Date of Birth' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Date of Birth' /&gt;" Guid="bd28460b-4d8b-479e-9754-c8b11830eca0" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8ce5a5e7f6715bd8252d90c6ab543dbd.png" xmlns="">0JGtau42f5UG6dtzvOFQ2Sg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

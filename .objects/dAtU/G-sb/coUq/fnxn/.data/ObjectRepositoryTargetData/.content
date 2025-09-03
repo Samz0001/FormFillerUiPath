@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="DOMFEnEgsEmkrANHUNsSFg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="letcode.in/forms" DesignTimeRectangle="1303, 132, 342, 796" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;app-root&amp;gt;app-forms&amp;gt;section&amp;gt;div&amp;gt;div&amp;gt;div' idx='3' tag='DIV' /&gt;" Guid="344f997e-d256-4e63-9e6b-5d39673281c7" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Forms | LetCode with Koushik' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c604c6f20f39a009c3b9b3dbf13cede7.png" xmlns="">0v_fn5_iq7Uy_ZnGaHkvhvw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

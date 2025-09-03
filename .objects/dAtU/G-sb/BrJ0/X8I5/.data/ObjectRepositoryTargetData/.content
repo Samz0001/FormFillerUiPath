@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="NKwjWUmGyUantwD8y5byWA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="demoqa.com/automation-practice-form" CVScreenId="555f0171-81d5-4794-b845-60e629c7ce4e" CvElementArea="1051, 680, 284, 41" CvType="InputBox" DesignTimeRectangle="1054, 682, 241, 36" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl type='' parentid='city' tag='DIV' class=' css-1hwfws3' aaname='' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="3a64e4c8-43ba-42cb-9350-6e7350dad846" ScopeSelectorArgument="&lt;html app='msedge.exe' title='DEMOQA' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="555f0171-81d5-4794-b845-60e629c7ce4e" CvElementArea="1051, 680, 284, 41" CvType="InputBox" DesignTimeRectangle="1064, 688, 73, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Select City' parentid='city' tag='DIV' type='' class=' css-1wa3eu0-placeholder' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Select City' /&gt;" Guid="93d4bd44-bfa5-4281-ae39-31079584bcef" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0f61f48e11493603ec5524f5f2e51301.png" xmlns="">0erlb0aOg7UiTE72GcnAIeQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

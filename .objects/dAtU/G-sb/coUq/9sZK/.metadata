@@ -1,0 +1,14 @@
+﻿{
+  "Name": "FemaleO",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "9sZKe6rWfUeI9NNyXp0gQw",
+  "Reference": "zhmOv-MOTkmFtwNGLyQSGA/9sZKe6rWfUeI9NNyXp0gQw",
+  "ParentRef": "zhmOv-MOTkmFtwNGLyQSGA/coUqYuhdzk6JsIg5L9L49A",
+  "Created": "2025-09-03T05:42:05.2641385Z",
+  "Updated": "2025-09-03T05:42:05.2641385Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

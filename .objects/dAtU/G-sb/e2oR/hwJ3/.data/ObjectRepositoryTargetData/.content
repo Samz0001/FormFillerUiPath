@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tSvX7S67DkyeDZkF-5Bl-A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="letcode.in/forms" CVScreenId="6aa30513-5fd7-4e52-9945-c3edc228fa9e" CvElementArea="629, 598, 284, 43" CvType="InputBox" DesignTimeRectangle="631, 600, 282, 40" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='state' tag='INPUT' type='text' class='input' placeholder='State' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="b962e262-c95b-46d1-8368-cde6d20528ce" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Forms | LetCode with Koushik' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="6aa30513-5fd7-4e52-9945-c3edc228fa9e" CvTextArea="629, 572, 42, 14" CvTextArgument="State" CvType="Text" DesignTimeRectangle="631, 568, 282, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='State' tag='LABEL' type='' class='label' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='State' /&gt;" Guid="1ec8ecc3-2f16-47f3-90ab-d0fd29edb8c9" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="62c10fa812a56464483b46a4b458df0d.png" xmlns="">0f-OuqRU0ekus6rYoa05DBA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

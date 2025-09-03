@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uGg5ns8hiEuKKompqK7zBg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="letcode.in/forms" CVScreenId="0720354b-f97f-4c1e-910e-a9c4d204b0e3" CvElementArea="323, 390, 285, 43" CvType="InputBox" DesignTimeRectangle="325, 392, 282, 40" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='Phno' tag='INPUT' type='text' class='input' placeholder='Phone Number' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="73b8f0d4-4898-4f9c-858a-f6261c3da830" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Forms | LetCode with Koushik' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0720354b-f97f-4c1e-910e-a9c4d204b0e3" CvTextArea="324, 364, 113, 14" CvTextArgument="Phone Number" CvType="Text" DesignTimeRectangle="325, 360, 282, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Phone Number' tag='LABEL' type='' class='label' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Phone Number' /&gt;" Guid="f8e151d6-16db-4370-8139-ffa1e6aac02c" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="51c2e2a2e258cd6b4fbd014805135352.png" xmlns="">0UGdB2wlq-0uGTHCHTeZmZg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

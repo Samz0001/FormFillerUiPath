@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vz92yljNk0Ct4C2bqBlTIQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="letcode.in/forms" CVScreenId="dd02b881-9b1b-452a-912d-50ecdf6db7ff" CvElementArea="629, 374, 284, 43" CvType="InputBox" DesignTimeRectangle="631, 376, 282, 40" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='lasttname' tag='INPUT' type='text' class='input' placeholder='Text input' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="3e788505-0aaf-4df4-a0ce-2b4bd07fb4d0" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Forms | LetCode with Koushik' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="dd02b881-9b1b-452a-912d-50ecdf6db7ff" CvTextArea="630, 348, 81, 14" CvTextArgument="Last Name" CvType="Text" DesignTimeRectangle="631, 344, 282, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Last Name' tag='LABEL' type='' class='label' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Last Name' /&gt;" Guid="6b5fe3a8-8258-4a7b-b641-1f98cfca460e" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1e86649cebafbfa5bfaaa460000b828a.png" xmlns="">0N9Y8xGdKK0uoH0Q0DGxBTQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="F1nDLhitA0Ch8THHl6qakg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="letcode.in/forms" CVScreenId="d568126c-1a60-4632-be93-3dff1cc0edd6" CvElementArea="629, 491, 285, 42" CvType="InputBox" DesignTimeRectangle="631, 492, 282, 40" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='Addl1' tag='INPUT' type='text' class='input' placeholder='Address Line-1' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="12c645b7-8acb-43ec-bfe1-b730c15d9afb" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Forms | LetCode with Koushik' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d568126c-1a60-4632-be93-3dff1cc0edd6" CvTextArea="629, 464, 116, 14" CvTextArgument="Address Line-1" CvType="Text" DesignTimeRectangle="631, 460, 282, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Address Line-1' tag='LABEL' type='' class='label' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Address Line-1' /&gt;" Guid="56c162b9-af27-4be2-911d-67f367ef0c39" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1210059eb5e22563c82cdb77f91fc511.png" xmlns="">0hbo20ZSgy0mF8LE7n0Q8yA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

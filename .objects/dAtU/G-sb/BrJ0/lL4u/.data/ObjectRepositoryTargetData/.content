@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="bOhB1k1GpESy3FnpEH2Jaw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="demoqa.com/automation-practice-form" CVScreenId="7315e1db-ad9a-4ac8-aa69-3ac191755fa0" CvElementArea="1330, 789, 83, 45" CvTextArea="1346, 804, 53, 16" CvTextArgument="Submit" CvType="Button" DesignTimeRectangle="1334, 793, 76, 38" ElementType="Button" FullSelectorArgument="&lt;webctrl id='submit' tag='BUTTON' /&gt;" Guid="3216aec8-2f5f-4470-a7ab-fd209cd3c770" ScopeSelectorArgument="&lt;html app='msedge.exe' title='DEMOQA' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="2731291de87cbc6271b79a5cf24d971e.png" xmlns="">0w57SYeydGk6X3Y3vS8qgEA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

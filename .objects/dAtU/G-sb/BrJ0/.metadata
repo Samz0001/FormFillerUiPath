@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge DEMOQA",
+  "Type": "Screen",
+  "Id": "BrJ0KK_8kUuqRtTBQwqdJA",
+  "Reference": "zhmOv-MOTkmFtwNGLyQSGA/BrJ0KK_8kUuqRtTBQwqdJA",
+  "ParentRef": "zhmOv-MOTkmFtwNGLyQSGA/G-sbAIXRrEm9Fwg-otTrhg",
+  "Created": "2025-09-02T16:26:28.6229714Z",
+  "Updated": "2025-09-02T16:26:28.6229714Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

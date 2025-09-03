@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Letcode",
+  "Type": "Screen",
+  "Id": "coUqYuhdzk6JsIg5L9L49A",
+  "Reference": "zhmOv-MOTkmFtwNGLyQSGA/coUqYuhdzk6JsIg5L9L49A",
+  "ParentRef": "zhmOv-MOTkmFtwNGLyQSGA/G-sbAIXRrEm9Fwg-otTrhg",
+  "Created": "2025-09-02T20:57:09.9225431Z",
+  "Updated": "2025-09-02T20:57:09.9225431Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

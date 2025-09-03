@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_ru8-gPi_EOZQrHxDj8ggA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="letcode.in/forms" CVScreenId="acecd34a-454d-4eb8-9bd5-1a41325d164e" CvElementArea="323, 759, 285, 42" CvType="InputBox" DesignTimeRectangle="325, 761, 282, 40" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='Date' tag='INPUT' type='date' class='input' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="64859eec-411f-4ecd-b0fa-45edaa282905" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Forms | LetCode with Koushik' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="acecd34a-454d-4eb8-9bd5-1a41325d164e" CvTextArea="324, 732, 101, 15" CvTextArgument="Date Of Birth" CvType="Text" DesignTimeRectangle="325, 729, 282, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Date Of Birth' tag='LABEL' type='' class='label' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Date Of Birth' /&gt;" Guid="7ae754d6-7161-43b0-9dc1-761c18c3381f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c563c8e7ab0ea7e88c67103af3febb17.png" xmlns="">0QRWGdKm-lUO1WsoNj_-WhA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="f3cnpU7aG0ajRq8o1C0wuw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="letcode.in/forms" CVScreenId="8d242623-3a6d-4d16-acfc-c16c5f780479" CvElementArea="629, 606, 285, 43" CvType="InputBox" DesignTimeRectangle="631, 608, 282, 40" ElementType="DropDown" FuzzySelectorArgument="&lt;webctrl type='' tag='SELECT' class='' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="88854ac7-11fc-4d66-a96f-2056c530e03d" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Forms | LetCode with Koushik' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8d242623-3a6d-4d16-acfc-c16c5f780479" CvTextArea="629, 580, 62, 17" CvTextArgument="Country" CvType="Text" DesignTimeRectangle="631, 576, 282, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='country' tag='LABEL' type='' class='label' aaname='Country' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Country' /&gt;" Guid="f19426c5-1bed-45e7-a3c8-48101c43d1df" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="26e4c2243645554dfa8b0257d62a8b7c.png" xmlns="">0RBKbvIcugUmjKiFUkXSEAg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

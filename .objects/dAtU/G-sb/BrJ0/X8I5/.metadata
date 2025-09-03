@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Select City",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "X8I5BHNmkUa_gdZSdLoOTg",
+  "Reference": "zhmOv-MOTkmFtwNGLyQSGA/X8I5BHNmkUa_gdZSdLoOTg",
+  "ParentRef": "zhmOv-MOTkmFtwNGLyQSGA/BrJ0KK_8kUuqRtTBQwqdJA",
+  "Created": "2025-09-02T17:10:11.3828624Z",
+  "Updated": "2025-09-02T17:10:11.3828624Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

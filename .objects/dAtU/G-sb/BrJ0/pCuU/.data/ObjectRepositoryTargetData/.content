@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="a6TZAy4PlEqrjJWdXet58A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="demoqa.com/automation-practice-form" CVScreenId="a8b1dcec-e922-4259-a42f-c3c4828531b0" CvElementArea="742, 426, 668, 42" CvType="InputBox" DesignTimeRectangle="744, 429, 664, 36" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl type='' parentid='subjectsContainer' tag='DIV' class='subjects-auto-complete__value-container subjects-auto-complete__value-container--is-multi css-1hwfws3' aaname='' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="c824f61c-bc99-474b-bbfb-ce59f570ad94" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='DEMOQA' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a8b1dcec-e922-4259-a42f-c3c4828531b0" CvTextArea="510, 432, 60, 19" CvTextArgument="Subjects" CvType="Text" DesignTimeRectangle="511, 428, 59, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='subjects-label' tag='LABEL' type='' class='form-label' aaname='Subjects' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Subjects' /&gt;" Guid="e6996c02-50bf-414a-b879-84b5ede0f61e" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="31b7bf7346540250acb9f608ca91c313.png" xmlns="">0lXYT313WpEGF4Gm3LCGF1w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

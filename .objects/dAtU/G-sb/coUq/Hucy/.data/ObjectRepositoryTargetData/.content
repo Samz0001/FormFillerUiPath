@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="38TOhMuBG0aiPnV9WlIHHg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="letcode.in/forms" CVScreenId="ae094902-8f43-4a13-9d65-d2445a5470f5" CvElementArea="323, 859, 285, 42" CvType="InputBox" DesignTimeRectangle="325, 861, 282, 40" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='Date' tag='INPUT' type='date' class='input' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="2de593be-295d-4dac-8e4a-3e174a4ebdfe" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Forms | LetCode with Koushik' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ae094902-8f43-4a13-9d65-d2445a5470f5" CvTextArea="324, 833, 101, 14" CvTextArgument="Date Of Birth" CvType="Text" DesignTimeRectangle="325, 829, 282, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Date Of Birth' tag='LABEL' type='' class='label' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Date Of Birth' /&gt;" Guid="da8a45d4-4f25-4c63-a3e2-de8483f4a848" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1248f808130cd8a002e7cbfa0af435fa.png" xmlns="">04lK3nTqyqUuQMCBPyzj-7g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

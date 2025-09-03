@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Sports",
+  "Type": "Element",
+  "TaxonomyType": "Checkbox",
+  "Id": "8VmkfygcDkSRkYNdDgSc0w",
+  "Reference": "zhmOv-MOTkmFtwNGLyQSGA/8VmkfygcDkSRkYNdDgSc0w",
+  "ParentRef": "zhmOv-MOTkmFtwNGLyQSGA/BrJ0KK_8kUuqRtTBQwqdJA",
+  "Created": "2025-09-02T16:51:53.4587413Z",
+  "Updated": "2025-09-02T16:51:53.4587413Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

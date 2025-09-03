@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0ZqZIb52hUqhC9XzVbP9NA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="letcode.in/forms" CVScreenId="8937fa60-fffa-4232-bb81-8adf8a413c67" CvTextArea="699, 564, 67, 15" CvTextArgument="FemaleO" CvType="Text" DesignTimeRectangle="683, 563, 69, 20" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname=' Female ' class='radio' tag='LABEL' /&gt;" Guid="ee50bd66-d28e-4b17-b662-bf7d1df86052" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Forms | LetCode with Koushik' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c8337f4fac8c8d28b68181bf0269e8aa.png" xmlns="">0SPFe2PyXaU-qkRZqmlKhxA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

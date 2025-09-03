@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Postal-Code",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "5JirpBwlMEu5OmZgiPWJxA",
+  "Reference": "zhmOv-MOTkmFtwNGLyQSGA/5JirpBwlMEu5OmZgiPWJxA",
+  "ParentRef": "zhmOv-MOTkmFtwNGLyQSGA/e2oRJZWmQEe_0_X2Ky-jlw",
+  "Created": "2025-09-02T20:50:30.3897963Z",
+  "Updated": "2025-09-02T20:50:30.3897963Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Date of Birth(1)",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "b_tci1Te2EOB0Vx7meFW3A",
+  "Reference": "zhmOv-MOTkmFtwNGLyQSGA/b_tci1Te2EOB0Vx7meFW3A",
+  "ParentRef": "zhmOv-MOTkmFtwNGLyQSGA/BrJ0KK_8kUuqRtTBQwqdJA",
+  "Created": "2025-09-02T20:32:57.4462636Z",
+  "Updated": "2025-09-02T20:32:57.4462636Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "State and City",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "_iABiQ2yZ021LxCU_hKYyw",
+  "Reference": "zhmOv-MOTkmFtwNGLyQSGA/_iABiQ2yZ021LxCU_hKYyw",
+  "ParentRef": "zhmOv-MOTkmFtwNGLyQSGA/BrJ0KK_8kUuqRtTBQwqdJA",
+  "Created": "2025-09-02T17:08:24.7853568Z",
+  "Updated": "2025-09-02T17:08:24.7853568Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

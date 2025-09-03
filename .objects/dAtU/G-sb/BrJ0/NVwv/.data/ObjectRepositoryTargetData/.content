@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="F7ykGz8btEWyPzuHNVSY7Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="demoqa.com/automation-practice-form" CVScreenId="36bc3168-0c6d-4a1f-a637-9914ca1d22fc" CvElementArea="924, 531, 20, 19" CvTextArea="949, 533, 43, 15" CvTextArgument="Music" CvType="CheckBox" DesignTimeRectangle="926, 529, 65, 24" ElementType="CheckBox" FuzzySelectorArgument="&lt;webctrl type='' class='custom-control custom-checkbox custom-control-inline' parentid='hobbiesWrapper' tag='DIV' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="ed9f90b8-327b-40ec-b006-285c3eb5c4b7" ScopeSelectorArgument="&lt;html app='msedge.exe' title='DEMOQA' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="36bc3168-0c6d-4a1f-a637-9914ca1d22fc" CvTextArea="949, 533, 43, 15" CvTextArgument="Music" CvType="Text" DesignTimeRectangle="950, 529, 41, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Music' class='custom-control-label' parentid='hobbiesWrapper' tag='LABEL' type='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' check:innerText='Music' /&gt;" Guid="98d48a71-f6f9-4dfb-9683-2e2a4805c940" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="30144e6199d96cd3be23edf20beafb5c.png" xmlns="">0auU1mzZjX0yD-upIp1D6rw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
